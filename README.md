@@ -238,3 +238,6 @@ This repository serves as the official landing page for ACDSee Picture Frame Man
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ACDSee Picture Frame Manager today!**
+
+---
+**Last updated:** 2026-09-12 18:51:39 UTC
