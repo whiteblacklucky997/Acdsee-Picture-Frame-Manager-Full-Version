@@ -1,0 +1,1 @@
+# Acdsee-Picture-Frame-Manager-Full-Version
