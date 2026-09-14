@@ -240,4 +240,4 @@ This repository serves as the official landing page for ACDSee Picture Frame Man
 **Get the most recent version of ACDSee Picture Frame Manager today!**
 
 ---
-**Last updated:** 2026-09-13 23:46:50 UTC
+**Last updated:** 2026-09-14 02:19:59 UTC
